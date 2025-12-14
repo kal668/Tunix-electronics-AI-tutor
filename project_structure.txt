@@ -1,0 +1,23 @@
+Project Name: Teaching by Mistakes – Reasoning-First Electronics Tutor
+
+Repository Structure:
+
+Tunix-electronics-AI-tutor/
+│
+├── README.md
+│   - Contains project overview, motivation, hackathon context,
+│     problem statement, approach, and outcomes.
+│
+├── project_structure.txt
+│   - Describes the high-level structure of the repository and
+│     explains the purpose of each file.
+│
+└── notes.txt
+    - Documents the reasoning-first training idea inspired by the
+      Google Tunix Hackathon, including the use of step-by-step
+      explanations and common mistake correction for Electronics problems.
+
+Description:
+This repository is structured to clearly communicate the idea,
+learning approach, and hackathon contribution, even for beginners.
+The focus is on explainability, reasoning clarity, and educational value.
